@@ -11,3 +11,5 @@
 5. Use /start [targetname] to track the target player
 
 This is a mod made with Spigot NMS and Bukkit API, not a modded client, so the code can be shared as it does not include code from the actual game files.
+
+V1.0 was not documented on this repository and did not automatically give players a compass when they joined or respawned.
