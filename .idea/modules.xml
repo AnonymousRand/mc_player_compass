@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/compass-2player-plugin.iml" filepath="$PROJECT_DIR$/compass-2player-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mc-player-compass.iml" filepath="$PROJECT_DIR$/mc-player-compass.iml" />
     </modules>
   </component>
 </project>
