@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mc-player-compass">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/player-compass-jar/player_compass.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,9 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="player_compass:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/player-compass-jar</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
     <root id="archive" name="player_compass.jar">
-      <element id="module-output" name="mc-player-compass" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.16.1.jar" path-in-jar="/" />
+      <element id="module-output" name="mc_player_compass" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot_1.16.1.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
